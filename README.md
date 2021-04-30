@@ -1,4 +1,6 @@
-# app
+# todo
+
+add edit delete complete
 
 ## Project setup
 ```
